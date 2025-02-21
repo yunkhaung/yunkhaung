@@ -1,30 +1,12 @@
-# 👋 Hello, I'm Di!
-
-I’m a electronics engineering major, exploring the world of **cybersecurity and software development**. I love solving problems, optimizing workflows, and creating efficient solutions.
-
-### 🔹 My Journey
-- 📚 Majoring in **Electronic Engineering**, learning **Finance** on the side.
-- 🔍 Passionate about **Cybersecurity, DevOps, and Software Development**.
-- 🏸 **President** of the Essex Blades Badminton Club.
-
-### ⚡ Fun Facts
-- I enjoy **badminton** and exploring **new tech**
-- I believe in **continuous learning and improvement**.
-
-### 🚀 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/yunkhaung)
-- 📧 didikyawkhaung@gmail.com
-
 <h1 align="center">Hi there, I'm Di! 👋</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst | Software Developer | Finance Major</h3>
 
 ---
 
 ### 🚀 **About Me**
-- 🎓 **Finance Major** with an **Electronic Engineering** background.  
+- 🎓 **Electronics Engineering Major**. 
 - 🖥️ Passionate about **Cybersecurity, DevOps, and Software Development**.  
 - 🏸 **President** of the Essex Blades Badminton Club.  
-- 🚀 Currently an **IT Intern**, modernizing applications using **Python**.  
 - 🌱 **Learning:** Infrastructure Support | DevOps | Application Security.  
 
 ---
@@ -48,10 +30,6 @@ I’m a electronics engineering major, exploring the world of **cybersecurity an
 
 ### 📫 **Let’s Connect!**
 - 💼 **[LinkedIn](https://linkedin.com/in/yourprofile)**
-- 🌍 **[Portfolio Website](https://yourwebsite.com)**
 - 📧 **your.email@example.com**
 
----
-
-💡 *“Security is not a product, but a process.”*  
 Thanks for visiting my profile! 🚀 Feel free to explore my repositories. 😊
