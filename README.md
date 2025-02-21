@@ -1,11 +1,16 @@
-<h1>Hi, I'm Yun! <br/><a href="https://github.com/joshmadakor1">Electronic Engineering Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>
+# 👋 Hello, I'm Di!
 
-<h2>👨‍💻 Personal Projects:</h2>
+I’m a electronics engineering major, exploring the world of **cybersecurity and software development**. I love solving problems, optimizing workflows, and creating efficient solutions.
 
-- <b> C Programming and Embedded Systems</b>
-  - 
-- <b> Python </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b> Java </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+### 🔹 My Journey
+- 📚 Majoring in **Electronic Engineering**, learning **Finance** on the side.
+- 🔍 Passionate about **Cybersecurity, DevOps, and Software Development**.
+- 🏸 **President** of the Essex Blades Badminton Club.
 
+### ⚡ Fun Facts
+- I enjoy **badminton** and exploring **new tech**
+- I believe in **continuous learning and improvement**.
+
+### 🚀 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/yunkhaung)
+- 📧 didikyawkhaung@gmail.com
