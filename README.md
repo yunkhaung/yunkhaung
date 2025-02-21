@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Di! 👋</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst | Software Developer | Finance Major</h3>
+<h3 align="center">Aspiring Cybersecurity Analyst | Electronics Engineer | Finance Enthusiast  </h3>
 
 ---
 
