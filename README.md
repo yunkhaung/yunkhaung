@@ -29,7 +29,7 @@
 ---
 
 ### 📫 **Let’s Connect!**
-- 💼 **[LinkedIn](https://linkedin.com/in/yourprofile)**
-- 📧 **your.email@example.com**
+- 💼 **[LinkedIn](http://www.linkedin.com/in/yunkhaung)**
+- 📧 **didikyawkhaung@gmail.com**
 
 Thanks for visiting my profile! 🚀 Feel free to explore my repositories. 😊
