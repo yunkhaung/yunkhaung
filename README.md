@@ -8,7 +8,7 @@ Final-year Electronics Engineering student at Essex. I like figuring out how har
  
 - 🔧 **Building** — an FPGA signal processing platform hitting 20 ns deterministic latency across 3 parallel pipelines. Next up: replacing the soft logic with a proper IP core
 - 📖 **Learning** — IP core design, ASIC flows with OpenLane, and enough RISC-V to build a pipelined CPU from scratch
-- 👀 **Open to** — grad roles in silicon design, SoC validation, embedded systems, or honestly anything electronics. Graduating June 2026
+- 👀 **Open to** — grad roles in silicon design, SoC validation, embedded systems, or honestly anything electronics. Graduating July 2026
 - 🏸 **Also** — captain and former president of Essex Blades Badminton. Former varsity track & basketball. Still deciding if athletics was the right call to quit
 ---
  
