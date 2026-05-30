@@ -1,52 +1,27 @@
-# hey, I'm diiiiii — or Yun if you prefer
- 
-Final-year Electronics Engineering student at Essex. I like figuring out how hardware and software talk to each other — specifically why FPGAs can do in nanoseconds what takes a CPU milliseconds. Most of what I know I taught myself, which is honestly more fun anyway. Looking for grad roles anywhere in electronics.
- 
+# hey, I'm diii — or Yun if you prefer
+
+final-year electronics engineering student at Essex (Dean's List 2024). i'm into hardware-software codesign, FPGA programming, building cool electronics projects, and genuinely diving into whatever catches my interest, recently that's been microfluidic cooling, arm architecture, and trying not to lose my mind over branch hazard resolution at 2am.
+
+currently working toward an Arm architecture certification. graduating July 2026, looking for grad roles in silicon, FPGA, or embedded. happy to relocate to Cambridge or London.
+
+also — former president and current women's captain of Essex Blades Badminton. pool is the new thing.
+
 ---
- 
-### right now
- 
-- 🔧 **Building** — an FPGA signal processing platform hitting 20 ns deterministic latency across 3 parallel pipelines. Next up: replacing the soft logic with a proper IP core
-- 📖 **Learning** — IP core design, ASIC flows with OpenLane, and enough RISC-V to build a pipelined CPU from scratch
-- 👀 **Open to** — grad roles in silicon design, SoC validation, embedded systems, or honestly anything electronics. Graduating July 2026
-- 🏸 **Also** — captain and former president of Essex Blades Badminton. Former varsity track & basketball. Still deciding if athletics was the right call to quit
----
- 
+
 ### things I'm into
- 
-`FPGA architecture` `hardware–software co-design` `RTL design` `embedded firmware` `pubs with pool tables` `badminton` `self-studying stuff`
- 
+
+`FPGA architecture` `RTL design` `hardware–software co-design` `embedded firmware` `security tools` `arm architecture` `self-studying stuff` `pubs with pool tables`
+
 ---
- 
-### projects
- 
-**01 — FPGA Signal Processing Platform**
-`Verilog` `C++` `Vivado` `UART` `ESP32`
- 
-Full hardware–software co-design on Artix-7. Verilog RTL hitting 20 ns deterministic latency, validated on physical hardware. ESP32 firmware feeding live data through 3 parallel pipelines — 32× faster than doing it in software. Future work: swap the soft logic for a proper IP core.
- 
+
+### stats
+
+![Yun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunkhaung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkhaung&layout=donut&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=yunkhaung&theme=tokyonight&hide_border=true)
+
 ---
- 
-**02 — VGA Graphics System**
-`VHDL` `FSM` `VGA` `Vivado`
- 
-Modular VHDL design on Basys3 — pixel clock gen, timing controller, geometric renderer, debouncer. Learned a lot about what "stable output" actually means when you're debugging on real hardware.
- 
----
- 
-**03 — Embedded Access Control System**
-`Embedded C++` `FSM` `mbed` `GPIO`
- 
-State-machine driven system on mbed — authentication, lockdown logic, sensor monitoring, LCD feedback. Multiple hardware peripherals, fault-injection tested.
- 
----
- 
-### a few numbers
- 
-| 20 ns FPGA latency | 150+ member badminton club | 3 sports played at varsity level |
-|---|---|---|
-| faster than a CPU can blink | £3k budget, 0 disasters | track, basketball, badminton. pool next. |
- 
----
- 
+
 📬 didikyawkhaung@gmail.com · [LinkedIn](https://linkedin.com/in/yunkhaung) · Colchester, UK
